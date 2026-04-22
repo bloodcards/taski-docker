@@ -1,3 +1,4 @@
+"""Django settings for backend project."""
 from pathlib import Path
 import os
 
