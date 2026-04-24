@@ -1,8 +1,6 @@
 """Django settings for backend project."""
 import os
-
 from pathlib import Path
-
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
